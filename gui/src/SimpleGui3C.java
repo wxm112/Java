@@ -10,4 +10,8 @@ public class SimpleGui3C {
         SimpleGui3C gui = new SimpleGui3C();
         gui.go();
     }
+
+    public void go() {
+
+    }
 }
