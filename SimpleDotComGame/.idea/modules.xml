@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MusicMachine/MusicMachine.iml" filepath="$PROJECT_DIR$/MusicMachine/MusicMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MusicMachine/MusicMachine.iml" filepath="$PROJECT_DIR$/../MusicMachine/MusicMachine.iml" />
     </modules>
   </component>
 </project>
